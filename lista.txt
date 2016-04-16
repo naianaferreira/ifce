@@ -1,0 +1,6 @@
+.
+..
+calendario.txt
+.git
+lista.txt
+README.md
